@@ -57,6 +57,9 @@ You can try out the GCPP system directly on Replit. Fork the project and run it 
 
 [![Run on Replit](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console#main.py)
 
+[Run on Replit](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)
+
+
 ## Project Structure
 
 ```
