@@ -1,4 +1,5 @@
 # General Cancer Probability Prediction (GCPP)
+[![Made with Replit](https://replit.com/badge?theme=dark&caption=Made%20with%20Replit)](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)
 
 Welcome to the **General Cancer Probability Prediction (GCPP)** project. This repository provides a Python-based implementation to predict the probability of cancer based on various input parameters. The project uses predefined rules and calculations to analyze and predict the likelihood of cancer, aiming to assist in early detection and diagnosis.
 
@@ -55,7 +56,7 @@ Upon running the application, you will be guided through a registration and scre
 
 You can try out the GCPP system directly on Replit. Fork the project and run it in your own Replit environment:
 
-[![Run on Replit](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console#main.py)
+[![Run on Replit](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)]
 
 [Run on Replit](https://replit.com/@RikiA1/GCPP-General-Cancer-Probability-Prediction-console)
 
