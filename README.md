@@ -64,7 +64,6 @@ You can try out the GCPP system directly on Replit. Fork the project and run it 
 
 ```
 ├── main.py                 # Main application script
-├── requirements.txt        # List of required Python packages
 ├── data                    # Directory for storing user data
 │   └── hv.csv              # Historical values CSV file
 └── README.md               # Project README file
